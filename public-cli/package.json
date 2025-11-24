@@ -1,0 +1,21 @@
+{
+  "name": "isa-protocol-client",
+  "version": "1.0.0",
+  "description": "Isa Protocol V1 - Public CLI Client",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["whatsapp", "bot", "client"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.16.2",
+    "qrcode-terminal": "^0.12.0",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "chalk": "^5.3.0"
+  }
+}
