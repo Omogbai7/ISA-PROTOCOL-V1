@@ -285,5 +285,3 @@ If you find this project useful, please give it a ⭐️!
 ---
 
 **Built with ❤️ by io.dev**
-
-*Powered by Baileys, Node.js, MongoDB & Express*
